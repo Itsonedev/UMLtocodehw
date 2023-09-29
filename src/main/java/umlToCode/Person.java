@@ -1,6 +1,6 @@
 package umlToCode;
 
-public abstract class Person {
+public abstract class Person implements IPayable {
 
     private String name;
 
